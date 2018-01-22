@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Assistant');
+
+body{
+    font-family: 'Assistant';
+    background-color: #dcdee1;
+}
+
+#result{
+    display:block;
+    background-color: red;
+    width:500px;
+    height:300px;
+}
+
