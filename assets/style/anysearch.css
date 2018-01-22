@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Assistant');
+
+body{
+    font-family: 'Assistant';
+}
+
 #result{
     display:block;
     background-color: red;
