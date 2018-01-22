@@ -1,4 +1,3 @@
-Need to attach to Git. 
 A search tool for searching through any inputted website. 
 I think my default chrome skin is showing that nice font, find out if that is the case and what font it is so I can actually use it for the site. 
 
